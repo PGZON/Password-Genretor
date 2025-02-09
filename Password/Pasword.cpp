@@ -15,11 +15,11 @@ void display()
     //timeinfo = localtime(&rawtime);
 
 
-        printf("\t\t\t***********************************************************\n");
-        printf("\t\t\t*                                                         *\n");
-        printf("\t\t\t*                    PASSWORD GENERATOR                   *\n");
-        printf("\t\t\t*                                                         *\n");
-        printf("\t\t\t***********************************************************\n");
+    printf("\n\t\t***********************************************************\n");
+    printf("\t\t*                                                           *\n");
+    printf("\t\t*                    PASSWORD GENERATOR                     *\n");
+    printf("\t\t*                                                           *\n");
+    printf("\t\t***********************************************************\n\n");
     
 
 }
